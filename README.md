@@ -24,6 +24,7 @@ Unix Programming / Opensource SW
         1) logout -> 로그인 셸인 경우
         2) exit -> 로그인 셸이 아닌 경우 / 셸 종료 명령어
         3) ctrl + D -> 로그인 셸이 아닌 경우 / 셸 종료 명령어
+<<<<<<< HEAD
         
 3. 디렉토리 계층 구조 
     1) root directory : 모든 디렉토리와 파일의 원조이자 시작, '/' 기호로 표시 
@@ -101,3 +102,7 @@ Unix Programming / Opensource SW
         - ex) rmdir temp 
         - rmdir 명령 다음에 공백 문자로 구분되는 이름들이 있을 경우 각각을 디렉토리 이름으로 인식해 모두 삭제한다 
     6) 
+=======
+    
+    
+>>>>>>> dc261cef3a4dddd7eef60bc754cdd54d24fdff15
